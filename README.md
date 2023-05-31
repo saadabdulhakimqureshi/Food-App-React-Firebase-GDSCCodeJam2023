@@ -1,13 +1,13 @@
-#Food-App
+# Food-App
 This is an App we created under 3 hours for the Code Jam 2023 hosted by Google Students Developers Club at SMIU Pakistan.
 
-##Implementation
+## Implementation
 Fronend: React-Native, Bootstrap
 
 Backend: Firebase
 
-##Instructions
+## Instructions
 Below are the pages for the app:
 
-##Screens
+## Screens
 ![Alt text](/Images/1.jpeg)
