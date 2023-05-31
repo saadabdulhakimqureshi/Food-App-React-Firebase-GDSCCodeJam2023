@@ -14,4 +14,5 @@ Below are the pages for the app:
 https://food-app-hackathon.netlify.app/
 
 ## Screens
-![Alt text](/Images/1.jpeg)
+![Alt text](/Images/1.PNG)
+![Alt text](/Images/2.PNG)
