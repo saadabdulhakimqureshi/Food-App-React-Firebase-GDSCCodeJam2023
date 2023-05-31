@@ -9,6 +9,18 @@ Backend: Firebase
 ## Instructions
 Below are the pages for the app:
 
+### Welcome Screen
+Alows you to either Sign In or navigate to Registeration page.
+
+### Sign In Screen
+Allows you to create an account.
+
+### Home Screen
+Allows you to view different food items categorized under different types and add them to your wishlist.
+
+### Wishlist
+Allows you to view your favourite food items.
+
 ## Link
 
 https://food-app-hackathon.netlify.app/
